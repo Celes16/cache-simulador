@@ -1,5 +1,4 @@
-﻿Maria Celeste Enciso Virto - 23200125
-----
+
 
 # Simulador de Cache em Python
 
