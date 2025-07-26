@@ -1,5 +1,3 @@
-﻿Maria Celeste Enciso Virto - 23200125
-
 Simulador de Cache em Python
 Este código implementa um simulador de cache que analisa o comportamento de acessos a memória em diferentes configurações de cache, calculando estatísticas como taxa de hits, misses e classificando os tipos de misses.
 
