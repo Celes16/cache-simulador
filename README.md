@@ -16,7 +16,7 @@ Leitura do Arquivo de Entrada
 
 Exemplo de entrada: 
 
-```python
+```shell
 python cache_simulator.py <nsets> <bsize> <assoc> <subst> <flag_saida> <arquivo>
 ```
 
@@ -82,4 +82,4 @@ Saída:
 - "sys": Para ler argumentos da linha de comando.
 - "math": Para cálculos de logaritmo (determinar bits de tag, índice e offset).
 - "random": Para implementar a polotica de substituição aleatória.
-- "collections.deque": Para implementar a polotica FIFO eficientemente.
+- "collections.deque": Para implementar a politica FIFO eficientemente.
