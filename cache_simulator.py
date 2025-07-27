@@ -4,7 +4,6 @@ import random
 from collections import deque
 
 def main():
-    random.seed(0)
     
     if len(sys.argv) != 7:
         print("Uso: python cache_simulator.py <nsets> <bsize> <assoc> <subst> <flag_saida> <arquivo>")
